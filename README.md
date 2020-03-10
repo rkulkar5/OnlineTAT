@@ -18,7 +18,7 @@ Similarly from <b>../server </b> direcotry run the <code>npm update</code> to do
 ```
 git status - lists all new an modified files that are not yet commited
 git add  - adds a change in the working directory to the staging area
-git commit - saves your changes to the local repository
+git commit -m "commit message" --> saves your changes to the local repository
 git push - upload local repository content to a remote repository
 git pull - download the contents from a remote repository
 ```
