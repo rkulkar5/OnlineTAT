@@ -20,7 +20,7 @@ git status - lists all new an modified files that are not yet commited
 git add  - adds a change in the working directory to the staging area
 git commit -m "commit message" --> saves your changes to the local repository
 git push - upload local repository content to a remote repository
-git pull - download the contents from a remote repository
+git pull - download or update your local repo with the contents from a remote repository
 ```
 
 <b>Basic Angular and NodeJS commands</b>
