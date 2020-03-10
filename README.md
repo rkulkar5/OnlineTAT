@@ -20,7 +20,7 @@ git status - lists all new an modified files that are not yet commited
 git add  - adds a change in the working directory to the staging area
 git commit -m "commit message" --> saves your changes to the local repository
 git push - upload local repository content to a remote repository
-git pull - download the contents from a remote repository
+git pull - download or update your local repo with the contents from a remote repository
 ```
 
 <b>Basic Angular and NodeJS commands</b>
@@ -28,7 +28,6 @@ git pull - download the contents from a remote repository
 C:\..\client> ng serve - starts the angular server
 C:\..\client> ng generate component <Component_Name> - Adds new components
 C:\..\client> ng service <service_Name> - adds new service 
-
 C:\..\server> node <index.js or app.js>
               or
 C:\..\server> npm start  -  to start node js server
