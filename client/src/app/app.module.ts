@@ -3,7 +3,6 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { RegistrationComponent } from './registration/registration.component';
 import { LoginComponent } from './login/login.component';
 import { QuestionnaireComponent } from './questionnaire/questionnaire.component';
 import { SummaryComponent } from './summary/summary.component';
@@ -16,7 +15,6 @@ import { QuestionBankComponent } from './question-bank/question-bank.component';
 @NgModule({
   declarations: [
     AppComponent,
-    RegistrationComponent,
     LoginComponent,
     QuestionnaireComponent,
     SummaryComponent,
