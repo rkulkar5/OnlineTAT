@@ -28,7 +28,6 @@ git pull - download the contents from a remote repository
 C:\..\client> ng serve - starts the angular server
 C:\..\client> ng generate component <Component_Name> - Adds new components
 C:\..\client> ng service <service_Name> - adds new service 
-
 C:\..\server> node <index.js or app.js>
               or
 C:\..\server> npm start  -  to start node js server
