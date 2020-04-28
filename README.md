@@ -23,6 +23,10 @@ git push - upload local repository content to a remote repository
 git pull - download or update your local repo with the contents from a remote repository
 ```
 
+git stash list
+git stash clear
+git stash drop stash@{index} 
+
 <b>Basic Angular and NodeJS commands</b>
 ```
 C:\..\client> ng serve - starts the angular server
