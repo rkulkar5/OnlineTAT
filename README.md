@@ -1,5 +1,3 @@
-# OnlineTAT
-<b>Online Technical Assessment Tool</b>
 
 Download the code from the git hub using below git command
 
@@ -21,11 +19,13 @@ git add  - adds a change in the working directory to the staging area
 git commit -m "commit message" --> saves your changes to the local repository
 git push - upload local repository content to a remote repository
 git pull - download or update your local repo with the contents from a remote repository
-```
 
 git stash list
 git stash clear
 git stash drop stash@{index} 
+```
+
+
 
 <b>Basic Angular and NodeJS commands</b>
 ```
